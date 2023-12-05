@@ -1,0 +1,14 @@
+D:\jasan\Trabajogrupal\Theboys\Restaurant\bin\Debug\net8.0\Restaurant.exe
+D:\jasan\Trabajogrupal\Theboys\Restaurant\bin\Debug\net8.0\Restaurant.deps.json
+D:\jasan\Trabajogrupal\Theboys\Restaurant\bin\Debug\net8.0\Restaurant.runtimeconfig.json
+D:\jasan\Trabajogrupal\Theboys\Restaurant\bin\Debug\net8.0\Restaurant.dll
+D:\jasan\Trabajogrupal\Theboys\Restaurant\bin\Debug\net8.0\Restaurant.pdb
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\Restaurant.AssemblyInfoInputs.cache
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\Restaurant.AssemblyInfo.cs
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\Restaurant.csproj.CoreCompileInputs.cache
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\Restaurant.dll
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\refint\Restaurant.dll
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\Restaurant.pdb
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\Restaurant.genruntimeconfig.cache
+D:\jasan\Trabajogrupal\Theboys\Restaurant\obj\Debug\net8.0\ref\Restaurant.dll
